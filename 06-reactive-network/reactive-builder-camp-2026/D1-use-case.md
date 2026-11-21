@@ -194,4 +194,6 @@ D4 已经验证 Sepolia → Lasna → Base Sepolia 的真实 Callback 投递，�
 - [Reactive 与 Bot](architecture/reactive-vs-bot.md)
 - [Uniswap V2 Swap 解码](scenarios/uniswap-v2-swap-decoding.md)
 - [D3 Transfer Monitor](D3-transfer-monitor.md)
-- [D4 Cross-chain Callback](D4-deployment-record.md)
+- [D4 Source Transfer](https://sepolia.etherscan.io/tx/0x2215693480b4f2f81b8900caf5c14ce8b03267dc67d41fc41314504f42dce2f6)
+- [D4 Lasna react()](https://lasna.reactscan.net/tx/0x95e57061219c0adeadcb2f04c39c95d6a015159a7f78658e3319ef31a0fea2af)
+- [D4 Base CallbackReceived](https://sepolia.basescan.org/tx/0xe51ce0ac20c52553c1a9d79a04e679ad1e37fa907918bc7222f562e94d674901)
